@@ -18,7 +18,7 @@ I found an old notebook in my box. The book was from 2019. It contained written 
 
 ### About
 
-The dataset for microbiology in burmese language contains **1131 rows of Instruction, Output pairs in csv format**.
+The dataset for microbiology in burmese language contains **1254 rows of Instruction, Output pairs in csv format**.
 The dataset mainly focus on mircobiology foundational knowledge, abstracting basic facts on culture medium, microbes - bacteria, virus, fungi and parasite, and diseases caused by these microbes.
 
 ### Examples
