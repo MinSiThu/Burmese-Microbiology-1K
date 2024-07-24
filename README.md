@@ -52,7 +52,7 @@ Burmese Microbiology 1K Dataset can be used in building various medical-related 
 
 Special thanks to [magickospace.org](magickospace.org) for supporting the curation process of **Burmese Microbiology 1K Dataset**.
 
-### References for this datasets 
+### References for this dataset
 
 - [https://openstax.org/details/books/microbiology](https://openstax.org/details/books/microbiology) - For medical facts
 
