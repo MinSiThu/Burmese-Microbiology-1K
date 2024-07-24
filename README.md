@@ -9,17 +9,17 @@ Microbiology 1K QA pairs in Burmese Language
 
 ### Purpose
 
-Before this  Burmese Microbiology 1K dataset, the open-source resources to train Burmese Large Language Model on Medical fields are very rare.
-Thus why, the high quality dataset needs to be curated for development of LLM in Burmese Language, covering medical knowledge.
+Before this  Burmese Clinical Microbiology 1K dataset, the open-source resources to train the Burmese Large Language Model in Medical fields were rare.
+Thus, the high-quality dataset needs to be curated to cover medical knowledge for the development of LLM in the Burmese language
 
 ### Motivation
 
-I found an old notebook in my box. The book was from 2019. It contained written notes on microbiology when I was a third year medical student. Because of the need for burmese language resources on medical fields, I added more facts, more notes and curate a dataset on microbiology in burmese language.
+I found an old notebook in my box. The book was from 2019. It contained written notes on microbiology when I was a third-year medical student. Because of the need for Burmese language resources in medical fields, I added more facts, and more notes and curated a dataset on microbiology in the Burmese language.
 
 ### About
 
-The dataset for microbiology in burmese language contains **1254 rows of Instruction, Output pairs in csv format**.
-The dataset mainly focus on mircobiology foundational knowledge, abstracting basic facts on culture medium, microbes - bacteria, virus, fungi and parasite, and diseases caused by these microbes.
+The dataset for microbiology in the Burmese language contains **1262 rows of instruction and output pairs in CSV format**.
+The dataset mainly focuses on clinical microbiology foundational knowledge, abstracting basic facts on culture medium, microbes - bacteria, viruses, fungi, parasites, and diseases caused by these microbes.
 
 ### Examples
 
@@ -33,24 +33,22 @@ The dataset mainly focus on mircobiology foundational knowledge, abstracting bas
 
 ### Where to download the dataset
 
-- [https://github.com/MinSiThu/Burmese-Microbiology-1K/blob/main/data/Microbiology.csv](https://github.com/MinSiThu/Burmese-Microbiology-1K/blob/main/data/Microbiology.csv)
+- Github - [https://github.com/MinSiThu/Burmese-Microbiology-1K/blob/main/data/Microbiology.csv](https://github.com/MinSiThu/Burmese-Microbiology-1K/blob/main/data/Microbiology.csv)
 
--
+- Zenodo [https://zenodo.org/records/12803638](https://zenodo.org/records/12803638)
 
--
+- Hugginface [https://huggingface.co/datasets/jojo-ai-mst/Burmese-Microbiology-1K](https://huggingface.co/datasets/jojo-ai-mst/Burmese-Microbiology-1K)
 
--
+- Kaggle - [https://www.kaggle.com/datasets/minsithu/burmese-microbiology-1k](https://www.kaggle.com/datasets/minsithu/burmese-microbiology-1k)
 
 ### Applications
 
-Burmese Microbiology 1K Dataset can be used in building various medical related NLP applications.
-
-- The dataset is added to ChatGPT services for custom QA bot applications.
-    - [Link to be published sooner]()
-
+Burmese Microbiology 1K Dataset can be used in building various medical-related NLP applications.
+ 
 - The dataset can be used for pretraining or finetuning the dataset on Burmese Large Langauge Models.
+- The dataset is ready to use in building RAG-based Applications.
 
-### Ackowledgements
+### Acknowledgments
 
 Special thanks to [magickospace.org](magickospace.org) for supporting the curation process of **Burmese Microbiology 1K Dataset**.
 
@@ -64,10 +62,8 @@ Special thanks to [magickospace.org](magickospace.org) for supporting the curati
 
 ### License - **[CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)**
 
-
-- Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-- No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
 ### How to cite the dataset
 
+```txt
+Si Thu, M. (2024). Burmese MicroBiology 1K Dataset (1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.12803638
+```
