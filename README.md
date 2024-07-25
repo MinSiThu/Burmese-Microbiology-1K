@@ -66,4 +66,6 @@ Special thanks to [magickospace.org](magickospace.org) for supporting the curati
 
 ```txt
 Si Thu, M. (2024). Burmese MicroBiology 1K Dataset (1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.12803638
+
+Si Thu, Min, Burmese-Microbiology-1K (July 24, 2024). Available at SSRN: https://ssrn.com/abstract=4904320
 ```
