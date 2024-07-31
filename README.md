@@ -10,7 +10,7 @@ Microbiology 1K QA pairs in Burmese Language
 ### Purpose
 
 Before this  Burmese Clinical Microbiology 1K dataset, the open-source resources to train the Burmese Large Language Model in Medical fields were rare.
-Thus, the high-quality dataset needs to be curated to cover medical knowledge for the development of LLM in the Burmese language
+Thus, the high-quality dataset needs to be curated to cover medical knowledge for the development of LLM in the Burmese language.
 
 ### Motivation
 
